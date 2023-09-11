@@ -1,0 +1,25 @@
+
+.content p {
+    font-size: 1.5rem;
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.content h2{
+    font-size: 1.5rem;
+    text-align: left;
+    padding-left: 5%;
+}
+
+@media (max-width: 13in) {
+    .content p {
+        font-size: 3.5rem;
+    }
+
+    .content h2 {
+        font-size: 3.5rem;
+    }
+  }
