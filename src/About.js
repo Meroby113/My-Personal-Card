@@ -7,7 +7,7 @@ export default function About() {
         <div className="content">
             
             <h2>About</h2>
-            <p >Hello! I'm Merve, a computer engineering student at Istanbul Aydin University, and I'm passionate about Frontend Development. I constantly improve myself in the tech world by sharing my projects on GitHub. My goal is to pursue a career in Frontend Development in the future.
+            <p >Hi, I'm Merve Çoban (also known as Meroby113) a final-year Computer Engineering student at İstanbul Aydın University with a passion for coding. I have immersed myself in both backend and frontend development, and I love working on projects that challenge me and help me grow as a software developer..
             </p>
             <h2>Interests</h2>
             <p>Yoga and pilates are a way of life for me. They bring me a sense of tranquility while I pursue flexibility and fitness.
