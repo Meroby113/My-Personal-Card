@@ -8,7 +8,7 @@ export default function ProfileImg() {
         <React.Fragment>
             <img className="profile-img" src={profile} alt="curly hair computer girl" />
             <h1 className="myName">MERVE ÇOBAN</h1>
-            <h2>Frontend developer</h2>
+            <h2>Software developer</h2>
             <div class="button-container">
                <a href="https://github.com/Meroby113">
                <button  className="btn" >Github</button>
