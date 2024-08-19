@@ -1,3 +1,7 @@
+# Aim of the Project
+The aim of the project is to learn React.js (one of the javaScript library) and to make a web card that briefly introduce myself. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
