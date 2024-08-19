@@ -1,6 +1,6 @@
 # Aim of the Project
-The aim of the project is to learn React.js (one of the javaScript library) and to make a web card that briefly introduce myself. <br/>
-Check the my personal card: https://my-personal-meroby113.vercel.app/<br/>
+The aim of the project is to learn React.js (one of the javaScript library) and to make a web card that briefly introduce myself. <br/><br/>
+Check the personal card: https://my-personal-meroby113.vercel.app/<br/>
 Deployment platform: https://vercel.com
 # Screenshot
 ![image](https://github.com/user-attachments/assets/4736d2e6-91ca-4bd0-8877-9de55e0deb41)<br/>
