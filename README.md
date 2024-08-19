@@ -3,7 +3,8 @@ The aim of the project is to learn React.js (one of the javaScript library) and 
 Check the personal card: https://my-personal-meroby113.vercel.app/<br/>
 Deployment platform: https://vercel.com
 # Screenshot
-![image](https://github.com/user-attachments/assets/4736d2e6-91ca-4bd0-8877-9de55e0deb41)<br/>
+![image](https://github.com/user-attachments/assets/992787ff-aadb-473e-953e-25230ec998d8)
+<br/>
 
 
 
